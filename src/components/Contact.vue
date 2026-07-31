@@ -16,7 +16,7 @@
 											<a aria-label="GitHub profile" href="https://github.com/edda-bn" target="_blank" rel="noreferrer noopener"><i class="fab fa-github"></i></a>
 										</div>
 										<div class="col-xs-7 label-holder">
-											<p><a href="https://github.com/Buscedv" target="_blank" rel="noreferrer noopener">@Buscedv</a></p>
+											<p><a href="https://github.com/edda-bn" target="_blank" rel="noreferrer noopener">@edda-bn</a></p>
 										</div>
 									</div>
 
