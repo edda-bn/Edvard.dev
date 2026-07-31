@@ -2,7 +2,7 @@
 	<div id="footer">
 		<div class="row footer-section" id="icons">
 			<div class="col-xs-4">
-				<a href="https://github.com/Buscedv" rel="noopener noreferrer" target="_blank"><i class="fab fa-github"></i></a>
+				<a href="https://github.com/edda-bn" rel="noopener noreferrer" target="_blank"><i class="fab fa-github"></i></a>
 			</div>
 			<div class="col-xs-4">
 				<a href="https://linkedin.com/in/edvard-busck-nielsen" rel="noopener noreferrer" target="_blank"><i class="fab fa-linkedin"></i></a>
