@@ -13,7 +13,7 @@
 								<div class="social-holder">
 									<div class="row" data-aos="fade-in" data-aos-delay="25">
 										<div class="col-xs-5">
-											<a aria-label="GitHub profile" href="https://github.com/Buscedv" target="_blank" rel="noreferrer noopener"><i class="fab fa-github"></i></a>
+											<a aria-label="GitHub profile" href="https://github.com/edda-bn" target="_blank" rel="noreferrer noopener"><i class="fab fa-github"></i></a>
 										</div>
 										<div class="col-xs-7 label-holder">
 											<p><a href="https://github.com/Buscedv" target="_blank" rel="noreferrer noopener">@Buscedv</a></p>
